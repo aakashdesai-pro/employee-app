@@ -41,6 +41,12 @@ php artisan migrate
 php artisan serve --port=8000
 ```
 
+##### Main files
+```sh
+routes\web.php
+app\Http\Controllers\EmployeeController.php
+```
+
 #### Screenshots
 ![alt text](https://i.ibb.co/ryR3kzz/Screenshot-2023-12-28-133554.png)
 ![alt text](https://i.ibb.co/XC8VNvT/Screenshot-2023-12-28-133922.png)
