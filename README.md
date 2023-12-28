@@ -50,6 +50,38 @@ routes\web.php
 app\Http\Controllers\EmployeeController.php
 ```
 
+```sh
+resources\views\employee\index.blade.php
+```
+
+```sh
+resources\views\layout\app.blade.php
+```
+
+```sh
+app\Http\Resources\EmployeeResource.php
+```
+
+```sh
+app\Models\Department.php
+```
+
+```sh
+app\Models\Employee.php
+```
+
+```sh
+database\migrations\2023_12_27_060424_create_departments_table.php
+```
+
+```sh
+database\migrations\2023_12_27_060428_create_employees_table.php
+```
+
+```sh
+public\photos
+```
+
 #### Screenshots
 ![alt text](https://i.ibb.co/ryR3kzz/Screenshot-2023-12-28-133554.png)
 ![alt text](https://i.ibb.co/XC8VNvT/Screenshot-2023-12-28-133922.png)
