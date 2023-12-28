@@ -41,6 +41,10 @@ php artisan migrate
 php artisan serve --port=8000
 ```
 
+#### Screenshots
+![alt text](https://i.ibb.co/ryR3kzz/Screenshot-2023-12-28-133554.png)
+![alt text](https://i.ibb.co/XC8VNvT/Screenshot-2023-12-28-133922.png)
+![alt text](https://i.ibb.co/RQRRHSL/Screenshot-2023-12-28-134001.png)
 
 ##### References sites
-- [Laravel](https://laravel.com/)
+- [Laravel](https://laravel.com/docs/10.x)
